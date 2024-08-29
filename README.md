@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**Fernandogiraldo/Fernandogiraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fernando Giraldo
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura]https://(www.alura.com.br)
+-Estou me desenvolveno na linguagem JavasScript
+-Utilizo esse espaço para organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Voce entrar em contato comigo 📫
+
+fernando.giraldo@escola.pr.gov.br
+
+@FernandoGiraldo
+
+![](https://media.tenor.com/LO5LF4ge6jgAAAAM/teq-ultimate-gohan-teen-gohan.gif)
